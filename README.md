@@ -21,7 +21,7 @@
 ## 🌙 Who Am I?
 
 - **Name:** Toby Therman
-- **Role:** Proud college student, thriving in the world of distance learning.
+- **Role:** Proud college student, thriving in the world of UIUC.
 - **Vibe:** Night owl 🦉, tech explorer, and digital dreamer.
 - **Passion:** Building creative projects, exploring the cosmos, and coding to lo-fi beats.
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 🦉 Distance Learning Life
+## 🦉 UIUC Life
 
 - Flexible, focused, and always adapting 🌌
 - Connecting with classmates and mentors online
